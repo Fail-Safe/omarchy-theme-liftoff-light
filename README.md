@@ -32,14 +32,14 @@ The local source variant was verified on Omarchy 4.0.3-3 at display scale 1.6: l
 
 ## Included wallpapers
 
-Two upstream lossless 8K wallpapers are retained unchanged:
+Four upstream lossless 8K wallpapers are retained unchanged:
 
 - Launchpad view: **8192 × 4608** (`backgrounds/01-liftoff.png`).
 - Sunset illustration: **8192 × 4608** (`backgrounds/03-liftoff-sunset.png`).
+- Engine-cluster view: **8192 × 5461** (`backgrounds/02-engine-cluster.png`).
+- Starship ascent: **8192 × 4667** (`backgrounds/04-starship-ascent.png`).
 
-Both wallpapers were enhanced in two passes; fine detail is AI-reconstructed. The sunset version preserves its painted finish.
-
-The upstream engine-cluster and Starship ascent photographs are intentionally not distributed here because their image-specific redistribution permissions are undocumented. They can be reconsidered once permission is confirmed. This does not change the complete locally installed variant.
+All four wallpapers were enhanced in two passes; fine detail is AI-reconstructed. The sunset version preserves its painted finish. Tom Ballard gave permission on 11 October 2026 to redistribute the engine-cluster and Starship ascent images in this derivative. Their original image-specific licences have not been independently verified; this permission is not an MIT or public-domain grant over the photographs. See [artwork and attribution](CREDITS.md).
 
 ## Credits and licence
 
