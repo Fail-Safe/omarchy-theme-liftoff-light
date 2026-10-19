@@ -7,13 +7,13 @@ A light variant of [Liftoff](https://github.com/tcballard/omarchy-theme-liftoff)
 ## Install
 
 ```sh
-omarchy theme install https://github.com/Fail-Safe/omarchy-theme-liftoff-light.git
+omarchy theme install https://github.com/Fail-Safe/omarchy-liftoff-light-theme.git
 ```
 
-On Omarchy 4.0.3-3, the installer names this theme `theme-liftoff-light`. Select it again with:
+On Omarchy 4.0.3-3, the installer names this theme `liftoff-light-theme`. Select it again with:
 
 ```sh
-omarchy theme set theme-liftoff-light
+omarchy theme set liftoff-light-theme
 ```
 
 Choose your preferred wallpaper through Omarchy's wallpaper picker. This is a separate variant, not an upstream replacement or an endorsed collaboration. It has not been submitted to a theme marketplace.
